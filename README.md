@@ -13,6 +13,7 @@
 * https://web.archive.org/web/20181010232938/https://www.thesius.de/blog/articles/bachelorarbeit-expose/
 * https://de.wikipedia.org/w/index.php?title=Expos%C3%A9_(Wissenschaft)&oldid=169493104
 * https://web.archive.org/web/20181011165531/https://www.phil-fak.uni-duesseldorf.de/politik/Mitarbeiter/Alemann/aufsatz/01_expose2001.pdf
+* https://web.archive.org/web/20181011170855/https://doktorandenforum.de/anfangen/expose.htm
 
 # Thoughtlog
 
