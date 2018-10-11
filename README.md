@@ -5,7 +5,7 @@
 * https://web.archive.org/web/20181010230339/https://www.bachelorprint.de/expose-beispiel/
 * https://web.archive.org/web/20181010232410/http://www.uni-bielefeld.de/erziehungswissenschaft//scs/pdf/leitfaeden/studierende/expose.pdf
 * https://web.archive.org/web/20181010235424/https://auratikum.de/blog/wie-schreibe-ich-ein-expose/
-* 
+* https://web.archive.org/web/20181011221423/https://www.uni-due.de/imperia/md/content/politik/anleitung_exposee.pdf
 
 ## less useful
 * https://www.scribbr.de/anfang-abschlussarbeit/expose-bachelorarbeit/
