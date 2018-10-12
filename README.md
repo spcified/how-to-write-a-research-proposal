@@ -18,6 +18,24 @@
 * https://web.archive.org/web/20181011205841/https://www.uni-heidelberg.de/md/politik/harnisch/lehre/harnisch-merkblatt-expose.pdf
 * https://web.archive.org/web/20181012225956/https://www.researchprospect.com/how-to-write-a-first-class-dissertation-proposal-or-research-proposal/
 
+# Examples
+
+## Bachelor
+
+## Master
+
+### https://web.archive.org/web/20181012232326/https://www.bachelorprint.de//wp-content/uploads/2016/05/Expos%25C3%25A9-Beispiel-2-Mustervorlage-Masterarbeit.pdf
+
+[alternative link](https://www.bachelorprint.de//wp-content/uploads/2016/05/Expos%C3%A9-Beispiel-2-Mustervorlage-Masterarbeit.pdf)
+
+This is a nice example, that shows that an exposé does not have to follow the rules in detail, although all parts are present. I would prefere a stronger separation between each section. But otherwise solid work
+
+## Thesis
+
+
+
+ 
+
 # Thoughtlog
 
 ## Motivation
