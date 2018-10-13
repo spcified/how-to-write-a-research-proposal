@@ -22,11 +22,17 @@
 
 ## Bachelor
 
+### [Akzeptanz innerstädtischer Shoppingcenter in einer historischen Altstadt- eine empirische Untersuchung am Beispiel Aquis Plaza in Aachen](https://www.bachelorprint.de//wp-content/uploads/2016/05/Expos%C3%A9-Beispiel-3-Mustervorlage-Bachelorarbeit.pdf)
+[original source](https://www.bachelorprint.de//wp-content/uploads/2016/05/Expos%C3%A9-Beispiel-3-Mustervorlage-Bachelorarbeit.pdf)
+[local copy](./Expos%C3%A9-Beispiel-3-Mustervorlage-Bachelorarbeit.pdf)
+
+Structure is ok, it could use one more iteration. Especially the introduction is a bit confusing.
+
 ## Master
 
 ### [Lokale Leser als lokale Berichterstatter?](https://web.archive.org/web/20181012232326/https://www.bachelorprint.de//wp-content/uploads/2016/05/Expos%25C3%25A9-Beispiel-2-Mustervorlage-Masterarbeit.pdf)
 
-[alternative link](https://www.bachelorprint.de//wp-content/uploads/2016/05/Expos%C3%A9-Beispiel-2-Mustervorlage-Masterarbeit.pdf)
+[original source](https://www.bachelorprint.de//wp-content/uploads/2016/05/Expos%C3%A9-Beispiel-2-Mustervorlage-Masterarbeit.pdf)
 [local copy](./Expos%C3%A9-Beispiel-2-Mustervorlage-Masterarbeit.pdf)
 
 This is a nice example, that shows that an exposé does not have to follow the rules in detail, although all parts are present. I would prefere a stronger separation between each section. But otherwise solid work
